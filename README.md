@@ -2,10 +2,10 @@
 Data and resources for literature review performed in the context of my Ph.D. project, within Research Question 2
 
 # Proceedings of Events Analyzed for Literature Review
-
+![Image of Events](https://github.com/dougcirqueira/perform-literature-review-rq-2-douglascirqueira/blob/master/resources/1_table_events_for_review.png)
 
 # Systematic Literature Review Steps to Identify the Requirements of Experts aligned with Cognitive Tasks for Decision-Making
-
+![Image of Steps](https://github.com/dougcirqueira/perform-literature-review-rq-2-douglascirqueira/blob/master/resources/literature_review_steps_rq2.png)
 
 # Table with Supporting Literature for Cognitive Tasks of Fraud Experts
 | Reference | Literature Review Source | Importance | Model Internals | Prototypes | Criticisms | Adversarial | Counterfactual | Feature Impact | Sensitivity | Decision Tree | Rule | Anchors | Causal Model |
