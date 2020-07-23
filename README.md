@@ -1,5 +1,6 @@
 # perform-literature-review-rq-2-douglascirqueira
 Data and resources for literature review performed in the context of my Ph.D. project, within Research Question 2
+The file `Full_Reference_Set.pdf` contains the references cited on the Literature Review table.
 
 # Proceedings of Events Analyzed for Literature Review
 ![Image of Events](https://github.com/dougcirqueira/perform-literature-review-rq-2-douglascirqueira/blob/master/resources/1_table_events_for_review.png)
